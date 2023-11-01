@@ -197,7 +197,9 @@ img:hover {
 	align-items: center;
 	width: 50%;
 	padding-bottom: 5%;
-	margin: auto;
+	margin-left: 25%;
+	/* margin-right: 50%; */
+	/* margin: auto; */
 	margin-top: 2%;
 	
 }
