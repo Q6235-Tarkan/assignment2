@@ -192,7 +192,9 @@ img:hover {
 }
 
 .form {
-	
+	display: flex;
+	justify-content: center;
+	align-items: center;
 	width: 50%;
 	padding-bottom: 5%;
 	margin: auto;
